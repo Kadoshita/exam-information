@@ -1,0 +1,17 @@
+{
+  "name": "exam-information",
+  "homepage": "https://kadoshita.github.io/exam-information/",
+  "authors": [
+    "kadoshita <kadoshita.inct@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
